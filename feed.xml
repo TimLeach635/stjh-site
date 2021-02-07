@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title><![CDATA[So This Just Happened]]></title>
+        <link>https://rss.com/podcasts/sothisjusthappened/</link>
+        <atom:link href="https://media.rss.com/sothisjusthappened/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+        <description><![CDATA[Something weird happened this week... Let's talk about it.]]></description>
+        <generator>RSS.com</generator>
+        <lastBuildDate>Sat, 30 Jan 2021 16:20:18 +0000</lastBuildDate>
+        <language>en</language>
+        <copyright><![CDATA[Jemma Bradbury & Tim Leach 2021]]></copyright>
+        <itunes:image href="https://media.rss.com/sothisjusthappened/20210130_162014_a78d4ad07956501c5cd41b2c0933c19d.jpg"/>
+        <image>
+            <url>https://media.rss.com/sothisjusthappened/20210130_162014_a78d4ad07956501c5cd41b2c0933c19d.jpg</url>
+            <title>So This Just Happened</title>
+            <link>https://rss.com/podcasts/sothisjusthappened</link>
+        </image>
+        <itunes:summary><![CDATA[Something weird happened this week... Let's talk about it.]]></itunes:summary>
+        <podcast:locked owner="sotjhappened@gmail.com">No</podcast:locked>
+        <itunes:author>Jemma Bradbury &amp; Tim Leach</itunes:author>
+        <itunes:owner>
+            <itunes:name>Jemma Bradbury &amp; Tim Leach</itunes:name>
+            <itunes:email>sotjhappened@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+        <itunes:category text="News">
+            <itunes:category text="News Commentary"></itunes:category>
+        </itunes:category>
+        <itunes:category text="Comedy"></itunes:category>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Personal Journals"></itunes:category>
+        </itunes:category>
+        
+        <item>
+            <title><![CDATA[Episode 0 - Big Heads and Bad Habits]]></title>
+            <itunes:title><![CDATA[Episode 0 - Big Heads and Bad Habits]]></itunes:title>
+            <itunes:summary>We will be talking about news of the week, but we don't do that this time—we talk about talking about it.</itunes:summary>
+            <description><![CDATA[<p>We <em>will </em>be talking about news of the week, but we don't do that this time—we talk about talking about it.</p>]]></description>
+            <link>https://rss.com/podcasts/sothisjusthappened/127617</link>
+            <enclosure url="https://media.rss.com/sothisjusthappened/20210130_120246_c3fb4adcd05cd6904ef5761c93dc89cc.mp3" length="27073137" type="audio/mp3"></enclosure>
+            <guid isPermaLink="false">a52d909c-c2f1-a9ca-d713-043a1030c6de</guid>
+            <itunes:image href="https://media.rss.com/sothisjusthappened/20210130_162014_a78d4ad07956501c5cd41b2c0933c19d.jpg"></itunes:image>
+            <itunes:duration>1510</itunes:duration>
+            <itunes:episodeType>trailer</itunes:episodeType>
+            <itunes:season>1</itunes:season>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Sat, 30 Jan 2021 12:03:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
