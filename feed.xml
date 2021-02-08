@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title><![CDATA[So This Just Happened]]></title>
+        <title>So This Just Happened</title>
         <link>https://sothisjusthappened.co.uk</link>
         <atom:link href="https://sothisjusthappened.co.uk/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-        <description><![CDATA[Something weird happened this week... Let's talk about it.]]></description>
+        <description>Something weird happened this week... Let's talk about it.</description>
         <language>en</language>
-        <copyright><![CDATA[Jemma Bradbury & Tim Leach 2021]]></copyright>
+        <copyright>Jemma Bradbury &amp; Tim Leach 2021</copyright>
         <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"/>
         <image>
             <url>https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png</url>
             <title>So This Just Happened</title>
             <link>https://sothisjusthappened.co.uk</link>
         </image>
-        <itunes:summary><![CDATA[Something weird happened this week... Let's talk about it.]]></itunes:summary>
+        <itunes:summary>Something weird happened this week... Let's talk about it.</itunes:summary>
         <podcast:locked owner="sotjhappened@gmail.com">No</podcast:locked>
         <itunes:author>Jemma Bradbury &amp; Tim Leach</itunes:author>
         <itunes:owner>
@@ -32,12 +32,12 @@
         <itunes:new-feed-url>https://sothisjusthappened.co.uk/feed.xml</itunes:new-feed-url>
         
         <item>
-            <title><![CDATA[Episode 0 - Big Heads and Bad Habits]]></title>
-            <itunes:title><![CDATA[Episode 0 - Big Heads and Bad Habits]]></itunes:title>
+            <title>Episode 0 - Big Heads and Bad Habits</title>
+            <itunes:title>Episode 0 - Big Heads and Bad Habits</itunes:title>
             <itunes:summary>We will be talking about news of the week, but we don't do that this time—we talk about talking about it.</itunes:summary>
-            <description><![CDATA[<p>We <em>will </em>be talking about news of the week, but we don't do that this time—we talk about talking about it.</p>]]></description>
+            <description><p>We <em>will</em> be talking about news of the week, but we don't do that this time—we talk about talking about it.</p></description>
             <link>https://sothisjusthappened.co.uk/audio/episode-0.mp3</link>
-            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-0.mp3" length="27073137" type="audio/mp3"></enclosure>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-0.mp3" length="27077246" type="audio/mp3"></enclosure>
             <guid isPermaLink="false">a52d909c-c2f1-a9ca-d713-043a1030c6de</guid>
             <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
             <itunes:duration>1510</itunes:duration>
@@ -45,6 +45,20 @@
             <itunes:season>1</itunes:season>
             <itunes:explicit>no</itunes:explicit>
             <pubDate>Sat, 30 Jan 2021 12:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title>Episode 1 - Boxy Bowels and Racist Rodents</title>
+            <itunes:title>Episode 1 - Boxy Bowels and Racist Rodents</itunes:title>
+            <itunes:summary>We misunderstand the human anatomy, talk about weird scientific discoveries about mammals and uncover an irrational fear of a Winnie-the-Pooh movie.</itunes:summary>
+            <description>We misunderstand the human anatomy, talk about weird scientific discoveries about mammals and uncover an irrational fear of a Winnie-the-Pooh movie.</description>
+            <link>https://sothisjusthappened.co.uk/audio/episode-1.mp3</link>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-1.mp3" length="30428912" type="audio/mp3"></enclosure>
+            <guid isPermaLink="false">boxy-bowels-and-racist-rodents</guid>
+            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
+            <itunes:duration>30:02</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
