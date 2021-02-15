@@ -60,5 +60,19 @@
             <itunes:explicit>no</itunes:explicit>
             <pubDate>Tue, 09 Feb 2021 00:00:00 GMT</pubDate>
         </item>
+        <item>
+            <title>Episode 2 - Tricky Tattoos and Pitiful Pluto</title>
+            <itunes:title>Episode 2 - Tricky Tattoos and Pitiful Pluto</itunes:title>
+            <itunes:summary>We improvise betrayal involving cake, argue about space and reminisce about “proto-memes”.</itunes:summary>
+            <description>We improvise betrayal involving cake, argue about space and reminisce about “proto-memes”.</description>
+            <link>https://sothisjusthappened.co.uk/audio/episode-2.mp3</link>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-2.mp3" length="22738395" type="audio/mp3"></enclosure>
+            <guid isPermaLink="false">tricky-tattoos-and-pitiful-pluto</guid>
+            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
+            <itunes:duration>28:36</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Tue, 16 Feb 2021 00:00:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>
