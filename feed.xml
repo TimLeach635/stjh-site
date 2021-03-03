@@ -74,5 +74,19 @@
             <itunes:explicit>no</itunes:explicit>
             <pubDate>Tue, 16 Feb 2021 00:00:00 GMT</pubDate>
         </item>
+        <item>
+            <title>Intermission - Tim's Favourite Joke</title>
+            <itunes:title>Intermission - Tim's Favourite Joke</itunes:title>
+            <itunes:summary>We're busy this week, so we've dug through the archives for this little gem.</itunes:summary>
+            <description>We're busy this week, so we've dug through the archives for this little gem.</description>
+            <link>https://sothisjusthappened.co.uk/audio/intermission-1.mp3</link>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/intermission-1.mp3" length="6934738" type="audio/mp3"></enclosure>
+            <guid isPermaLink="false">intermission-tims-favourite-joke</guid>
+            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
+            <itunes:duration>08:45</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Tue, 03 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>
