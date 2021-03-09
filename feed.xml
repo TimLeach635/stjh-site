@@ -88,5 +88,19 @@
             <itunes:explicit>no</itunes:explicit>
             <pubDate>Tue, 03 Mar 2021 00:00:00 GMT</pubDate>
         </item>
+        <item>
+            <title>Episode 3 - Avant-Garde Animals and Gamers with Gall</title>
+            <itunes:title>Episode 3 - Avant-Garde Animals and Gamers with Gall</itunes:title>
+            <itunes:summary>We discuss top punting locations and potential drunken lectures on quadratic equations.</itunes:summary>
+            <description>We discuss top punting locations and potential drunken lectures on quadratic equations.</description>
+            <link>https://sothisjusthappened.co.uk/audio/episode-3.mp3</link>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-3.mp3" length="15675381" type="audio/mp3"></enclosure>
+            <guid isPermaLink="false">avant-garde-animals-and-gamers-with-gall</guid>
+            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
+            <itunes:duration>20:00</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>
