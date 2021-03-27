@@ -102,5 +102,19 @@
             <itunes:explicit>no</itunes:explicit>
             <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
         </item>
+        <item>
+            <title>Episode 4 - BMW Bank Robbers and Big-Footed Bigfoot</title>
+            <itunes:title>Episode 4 - BMW Bank Robbers and Big-Footed Bigfoot</itunes:title>
+            <itunes:summary>We play word games, steal private jets, and discover Nessie's secret.</itunes:summary>
+            <description>We play word games, steal private jets, and discover Nessie's secret.</description>
+            <link>https://sothisjusthappened.co.uk/audio/episode-4.mp3</link>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-4.mp3" length="16012081" type="audio/mp3"></enclosure>
+            <guid isPermaLink="false">bmw-bank-robbers-and-big-footed-bigfoot</guid>
+            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
+            <itunes:duration>20:04</itunes:duration>
+            <itunes:season>1</itunes:season>
+            <itunes:explicit>no</itunes:explicit>
+            <pubDate>Tue, 16 Mar 2021 00:00:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>
