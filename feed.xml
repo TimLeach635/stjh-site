@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>So This Just Happened</title>
         <link>https://sothisjusthappened.co.uk</link>
-        <atom:link href="https://sothisjusthappened.co.uk/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+        <atom:link href="https://sothisjusthappened.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
         <description>Something weird happened this week... Let's talk about it.</description>
         <language>en</language>
         <copyright>Jemma Bradbury &amp; Tim Leach 2021</copyright>
@@ -23,23 +25,29 @@
         <itunes:explicit>no</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <itunes:category text="News">
-            <itunes:category text="News Commentary"></itunes:category>
+            <itunes:category text="News Commentary"/>
         </itunes:category>
-        <itunes:category text="Comedy"></itunes:category>
+        <itunes:category text="Comedy"/>
         <itunes:category text="Society &amp; Culture">
-            <itunes:category text="Personal Journals"></itunes:category>
+            <itunes:category text="Personal Journals"/>
         </itunes:category>
         <itunes:new-feed-url>https://sothisjusthappened.co.uk/feed.xml</itunes:new-feed-url>
-        
+
         <item>
             <title>Episode 0 - Big Heads and Bad Habits</title>
             <itunes:title>Episode 0 - Big Heads and Bad Habits</itunes:title>
-            <itunes:summary>We will be talking about news of the week, but we don't do that this time—we talk about talking about it.</itunes:summary>
-            <description><p>We <em>will</em> be talking about news of the week, but we don't do that this time—we talk about talking about it.</p></description>
+            <itunes:summary>We will be talking about news of the week, but we don't do that this time—we talk about
+                talking about it.
+            </itunes:summary>
+            <description>
+                <p>We <em>will</em> be talking about news of the week, but we don't do that this time—we talk about
+                    talking about it.
+                </p>
+            </description>
             <link>https://sothisjusthappened.co.uk/audio/episode-0.mp3</link>
-            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-0.mp3" length="27077246" type="audio/mp3"></enclosure>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-0.mp3" length="27077246" type="audio/mp3"/>
             <guid isPermaLink="false">a52d909c-c2f1-a9ca-d713-043a1030c6de</guid>
-            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
+            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"/>
             <itunes:duration>1510</itunes:duration>
             <itunes:episodeType>trailer</itunes:episodeType>
             <itunes:season>1</itunes:season>
@@ -49,12 +57,16 @@
         <item>
             <title>Episode 1 - Boxy Bowels and Racist Rodents</title>
             <itunes:title>Episode 1 - Boxy Bowels and Racist Rodents</itunes:title>
-            <itunes:summary>We misunderstand the human anatomy, talk about weird scientific discoveries about mammals and uncover an irrational fear of a Winnie-the-Pooh movie.</itunes:summary>
-            <description>We misunderstand the human anatomy, talk about weird scientific discoveries about mammals and uncover an irrational fear of a Winnie-the-Pooh movie.</description>
+            <itunes:summary>We misunderstand the human anatomy, talk about weird scientific discoveries about mammals
+                and uncover an irrational fear of a Winnie-the-Pooh movie.
+            </itunes:summary>
+            <description>We misunderstand the human anatomy, talk about weird scientific discoveries about mammals and
+                uncover an irrational fear of a Winnie-the-Pooh movie.
+            </description>
             <link>https://sothisjusthappened.co.uk/audio/episode-1.mp3</link>
-            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-1.mp3" length="30428912" type="audio/mp3"></enclosure>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-1.mp3" length="30428912" type="audio/mp3"/>
             <guid isPermaLink="false">boxy-bowels-and-racist-rodents</guid>
-            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
+            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"/>
             <itunes:duration>30:02</itunes:duration>
             <itunes:season>1</itunes:season>
             <itunes:explicit>no</itunes:explicit>
@@ -63,12 +75,14 @@
         <item>
             <title>Episode 2 - Tricky Tattoos and Pitiful Pluto</title>
             <itunes:title>Episode 2 - Tricky Tattoos and Pitiful Pluto</itunes:title>
-            <itunes:summary>We improvise betrayal involving cake, argue about space and reminisce about “proto-memes”.</itunes:summary>
-            <description>We improvise betrayal involving cake, argue about space and reminisce about “proto-memes”.</description>
+            <itunes:summary>We improvise betrayal involving cake, argue about space and reminisce about “proto-memes”.
+            </itunes:summary>
+            <description>We improvise betrayal involving cake, argue about space and reminisce about “proto-memes”.
+            </description>
             <link>https://sothisjusthappened.co.uk/audio/episode-2.mp3</link>
-            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-2.mp3" length="22738395" type="audio/mp3"></enclosure>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-2.mp3" length="22738395" type="audio/mp3"/>
             <guid isPermaLink="false">tricky-tattoos-and-pitiful-pluto</guid>
-            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
+            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"/>
             <itunes:duration>28:36</itunes:duration>
             <itunes:season>1</itunes:season>
             <itunes:explicit>no</itunes:explicit>
@@ -77,12 +91,14 @@
         <item>
             <title>Intermission - Tim's Favourite Joke</title>
             <itunes:title>Intermission - Tim's Favourite Joke</itunes:title>
-            <itunes:summary>We're busy this week, so we've dug through the archives for this little gem.</itunes:summary>
+            <itunes:summary>We're busy this week, so we've dug through the archives for this little gem.
+            </itunes:summary>
             <description>We're busy this week, so we've dug through the archives for this little gem.</description>
             <link>https://sothisjusthappened.co.uk/audio/intermission-1.mp3</link>
-            <enclosure url="https://sothisjusthappened.co.uk/audio/intermission-1.mp3" length="6934738" type="audio/mp3"></enclosure>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/intermission-1.mp3" length="6934738"
+                       type="audio/mp3"/>
             <guid isPermaLink="false">intermission-tims-favourite-joke</guid>
-            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
+            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"/>
             <itunes:duration>08:45</itunes:duration>
             <itunes:season>1</itunes:season>
             <itunes:explicit>no</itunes:explicit>
@@ -91,12 +107,14 @@
         <item>
             <title>Episode 3 - Avant-Garde Animals and Gamers with Gall</title>
             <itunes:title>Episode 3 - Avant-Garde Animals and Gamers with Gall</itunes:title>
-            <itunes:summary>We discuss top punting locations and potential drunken lectures on quadratic equations.</itunes:summary>
-            <description>We discuss top punting locations and potential drunken lectures on quadratic equations.</description>
+            <itunes:summary>We discuss top punting locations and potential drunken lectures on quadratic equations.
+            </itunes:summary>
+            <description>We discuss top punting locations and potential drunken lectures on quadratic equations.
+            </description>
             <link>https://sothisjusthappened.co.uk/audio/episode-3.mp3</link>
-            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-3.mp3" length="15675381" type="audio/mp3"></enclosure>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-3.mp3" length="15675381" type="audio/mp3"/>
             <guid isPermaLink="false">avant-garde-animals-and-gamers-with-gall</guid>
-            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
+            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"/>
             <itunes:duration>20:00</itunes:duration>
             <itunes:season>1</itunes:season>
             <itunes:explicit>no</itunes:explicit>
@@ -108,9 +126,9 @@
             <itunes:summary>We play word games, steal private jets, and discover Nessie's secret.</itunes:summary>
             <description>We play word games, steal private jets, and discover Nessie's secret.</description>
             <link>https://sothisjusthappened.co.uk/audio/episode-4.mp3</link>
-            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-4.mp3" length="16012081" type="audio/mp3"></enclosure>
+            <enclosure url="https://sothisjusthappened.co.uk/audio/episode-4.mp3" length="16012081" type="audio/mp3"/>
             <guid isPermaLink="false">bmw-bank-robbers-and-big-footed-bigfoot</guid>
-            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"></itunes:image>
+            <itunes:image href="https://sothisjusthappened.co.uk/images/artwork-2021-02-08.png"/>
             <itunes:duration>20:04</itunes:duration>
             <itunes:season>1</itunes:season>
             <itunes:explicit>no</itunes:explicit>
